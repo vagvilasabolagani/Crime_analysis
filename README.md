@@ -84,3 +84,6 @@ Note: The dataset may contain inaccuracies due to transcription from original pa
 
 Data cleansing and accurate data entry are critical for reliable analysis. Inaccurate or incomplete data can lead to incorrect conclusions and affect decision-making. Ensuring data quality through thorough cleaning and validation improves the reliability and accuracy of insights derived from the analysis.
 
+#link for google collab 
+https://colab.research.google.com/drive/1h2PvOebhgI2Wte3du-ulS_sgW2RCLdVI#scrollTo=wEkEmzDd0n4n
+
